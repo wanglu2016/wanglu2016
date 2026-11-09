@@ -8,9 +8,19 @@ I have contributed to the Digital Dictionary of Buddhism (DDB), and I am interes
 
 ## 互动作品 / Interactive explorations
 
-用交互模型、历史数据、可视化与轻游戏探索历史、科学、经济和人文问题。**全部可直接在浏览器体验，无需注册登录。**
+用交互模型、历史数据、可视化与轻游戏探索历史、人生、心理、科学、经济和人文问题。**全部可直接在浏览器体验，无需注册登录。**
 
-**从这几个作品开始：**
+**最近上线：**
+
+| 作品 | 一句话玩法 | 立即体验 | 演示视频 | 源码 |
+|---|---|---|---|---|
+| **古代职官制度沿革** | 拨动权力之河、亲手批阅奏章、拆解古人官衔，探索两千年的官制变化 | [进入](https://wanglu2016.github.io/guanzhi-yange/) | — | [GitHub](https://github.com/wanglu2016/guanzhi-yange) |
+| **心灵星图** | 点亮13个星座、55颗星，用特征透镜和四个比喻实验认识精神障碍与常见误解 | [进入](https://wanglu2016.github.io/xinling-xingtu/) | — | [GitHub](https://github.com/wanglu2016/xinling-xingtu) |
+| **普通美国人的一生** | 打开一家三代的信封，经历1952、1975、2000年出生者的人生，并作中美同龄对照 | [进入](https://wanglu2016.github.io/putong-meiguoren/) | [中文介绍片](https://wanglu2016.github.io/putong-meiguoren/video.html) | [GitHub](https://github.com/wanglu2016/putong-meiguoren) |
+| **选择决定命运** | 选出生年份与家庭，把人生下成一盘围棋，看积累怎样打开新的选项 | [进入](https://wanglu2016.github.io/xuanze-jueding-mingyun/) | [2分57秒讲解](https://wanglu2016.github.io/xuanze-jueding-mingyun/video.html) | [GitHub](https://github.com/wanglu2016/xuanze-jueding-mingyun) |
+| **普通中国人的一生** | 打开牛皮纸档案袋，走过一家三代，看制度、家境与时代怎样影响人生选项 | [进入](https://wanglu2016.github.io/putong-yisheng/) | [2分40秒讲解](https://wanglu2016.github.io/putong-yisheng/video.html) | [GitHub](https://github.com/wanglu2016/putong-yisheng) |
+
+**继续探索：**
 
 | 作品 | 一句话玩法 | 立即体验 | 演示视频 | 源码 |
 |---|---|---|---|---|
